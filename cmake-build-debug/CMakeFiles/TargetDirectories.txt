@@ -1,0 +1,3 @@
+/home/yue/桌面/huawei/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yue/桌面/huawei/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yue/桌面/huawei/cmake-build-debug/CMakeFiles/huawei.dir
