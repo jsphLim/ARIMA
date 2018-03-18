@@ -37,12 +37,6 @@ public:
         }
         vec.push_back(arCoe);
         vec.push_back(maCoe);
-        //std::cout<<"fuck"<<std::endl;
-       // std::cout<<vec.size()<<std::endl;
-//        for(int i=0;i<vec.size();i++){
-//            //for(int j=0;j<vec[i].size();j++)
-//                 std::cout<<vec[i].size()<<std::endl;
-//         }
 
         return vec;
     }
