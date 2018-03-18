@@ -2,8 +2,8 @@
 // Created by yue on 18-3-16.
 //
 
-#ifndef HUAWEI_MAMODEL_H
-#define HUAWEI_MAMODEL_H
+#ifndef MAMODEL_H
+#define MAMODEL_H
 
 #include <vector>
 #include "ARMAMath.h"
@@ -18,4 +18,4 @@ public:
 
     std::vector<std::vector<double>> solveCoeOfMA();
 };
-#endif //HUAWEI_MAMODEL_H
+#endif //MAMODEL_H
