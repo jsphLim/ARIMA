@@ -2,8 +2,8 @@
 // Created by yue on 18-3-16.
 //
 
-#ifndef HUAWEI_ARMAMODEL_H
-#define HUAWEI_ARMAMODEL_H
+#ifndef ARMAMODEL_H
+#define ARMAMODEL_H
 
 
 #include <vector>
@@ -41,4 +41,4 @@ public:
         return vec;
     }
 };
-#endif //HUAWEI_ARMAMODEL_H
+#endif //ARMAMODEL_H
