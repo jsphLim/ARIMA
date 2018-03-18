@@ -2,8 +2,8 @@
 // Created by yue on 18-3-16.
 //
 
-#ifndef HUAWEI_ARIMAMODEL_H
-#define HUAWEI_ARIMAMODEL_H
+#ifndef ARIMAMODEL_H
+#define ARIMAMODEL_H
 
 #include <vector>
 #include "ARModel.h"
@@ -291,4 +291,4 @@ public:
     }
 
 };
-#endif //HUAWEI_ARIMAMODEL_H
+#endif //ARIMAMODEL_H
