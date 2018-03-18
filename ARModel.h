@@ -2,8 +2,8 @@
 // Created by yue on 18-3-16.
 //
 
-#ifndef HUAWEI_ARMODEL_H
-#define HUAWEI_ARMODEL_H
+#ifndef ARMODEL_H
+#define ARMODEL_H
 
 #include <vector>
 #include "ARMAMath.h"
@@ -29,4 +29,4 @@ public:
 };
 
 
-#endif //HUAWEI_ARMODEL_H
+#endif //ARMODEL_H
