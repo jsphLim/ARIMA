@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/huawei.dir/main.cpp.o  -o huawei 
