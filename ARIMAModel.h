@@ -4,7 +4,6 @@
 
 #ifndef ARIMAMODEL_H
 #define ARIMAMODEL_H
-
 #include <vector>
 #include "ARModel.h"
 #include "MAModel.h"
