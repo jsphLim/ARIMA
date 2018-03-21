@@ -7,7 +7,7 @@
 
 #include <vector>
 #include "ARModel.h"
-#include "MAModel.cpp"
+#include "MAModel.h"
 #include "ARMAModel.h"
 
 class ARIMAModel{
@@ -49,7 +49,7 @@ public:
             }
             break;
             case 1: {
-                std::vector<double> tmp(this->preFirDiff(this->dataFirDiff));
+                std::vector<double> tmp(this->preFirDiff(this->dataArray));
                 this->dataFirDiff.assign(tmp.begin(), tmp.end());
                 return this->dataFirDiff;
             }
