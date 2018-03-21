@@ -7,7 +7,7 @@
 
 
 #include <vector>
-#include "ARMAMath.cpp"
+#include "ARMAMath.h"
 
 class ARMAModel{
 private:
